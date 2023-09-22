@@ -1,7 +1,8 @@
 # API-based-Weather-WebApp
  I applied all that I have learnt about APIs (Application Programming Interface) thus far and putting our knowledge to the test. I will be building a simple weather web application that will obtain the user location from the browser and pass on the data to the Weather API service provider. 
-markdown
-Copy code
+
+<img src="print.png" alt="LRP" width="auto"  height="auto" />
+
 
 # Simple Weather Web Application
 
@@ -20,7 +21,7 @@ This project consists of HTML, CSS, and JavaScript files that work together to c
 1. **Clone the Repository:** Start by cloning this repository to your local machine:
 
    ```bash
-   git clone https://github.com/luisrpavanelli/API-BASED-WEATHER-WEBAPP.git
+   git clone https://github.com/luisrpavanelli/API-based-Weather-WebApp
 
 Open the Project: Navigate to the project directory and open it in your code editor of choice.
 
